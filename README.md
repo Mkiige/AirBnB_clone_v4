@@ -220,7 +220,7 @@ github repo
 * __Brennan D Baraban__ - <[bdbaraban](https://github.com/bdbaraban)> | <[@bdov_](https://twitter.com/bdov_)>
 * __Derrick Gee__ - <[kai-dg](https://github.com/kai-dg)> | <[@the_haru_kai](https://twitter.com/the_haru_kai)>
 * __Mary Kiige__ - <[Mkiige](https://github.com/Mkiige)> | <[@KiigeMary](https://twitter.com/KiigeMary)>
-* __Zeddy Muge__ - <[zeddymuge](https://github.com/zeddymuge)> | <[zeddycherotich4](https://twitter.com/zeddycherotich4)>
+* __Zeddy Muge__ - <[zeddymuge](https://github.com/zeddymuge)> | <[@zeddycherotich4](https://twitter.com/zeddycherotich4)>
 
 ## License
 
